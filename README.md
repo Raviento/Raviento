@@ -12,12 +12,12 @@ __/\\\______________/\\\_____/\\\\\\\\\\___/\\\____________________/\\\\\\\\\___
 ```
 
 <p>
-  <img src="https://github.com/user-attachments/assets/cb79cca1-7272-44b6-a4ff-f8bf7a9df1ab" width="210"/>
-  <img src="https://github.com/user-attachments/assets/cb8be7fc-d7e4-41a1-96a4-433ffe13bc58" width="600"/>
+  <img src="https://github.com/user-attachments/assets/650777fa-f62d-4c98-9024-4469f9ce0198" width="210"/>
+  <img src="https://github.com/user-attachments/assets/c133b7d8-61d1-43f8-b411-336d70b3e476" width="600"/>
 </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/a3691308-0e1b-4655-a457-28bf2a75ba8f" width="810"/>
+  <img src="https://github.com/user-attachments/assets/5b89086f-992e-4406-bd40-350e1e9fb3af" width="810"/>
 </p>
 
 ## "I am a robot. I do robot things." 🤖
