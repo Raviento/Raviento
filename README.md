@@ -12,11 +12,6 @@ __/\\\______________/\\\_____/\\\\\\\\\\___/\\\____________________/\\\\\\\\\___
 ```
 
 <p>
-  <img src="https://github.com/user-attachments/assets/650777fa-f62d-4c98-9024-4469f9ce0198" width="210"/>
-  <img src="https://github.com/user-attachments/assets/c133b7d8-61d1-43f8-b411-336d70b3e476" width="600"/>
-</p>
-
-<p>
   <img src="https://github.com/user-attachments/assets/5b89086f-992e-4406-bd40-350e1e9fb3af" width="810"/>
 </p>
 
